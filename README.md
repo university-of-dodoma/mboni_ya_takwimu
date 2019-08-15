@@ -12,5 +12,5 @@ Tunatarajia kuwa kupitia mradi huu tunaweza tengeneza programu tumishi ambayo it
 Mradi huu tutaufanya kwa njia ya programu tumishi ya wazi(open source program). Kwa njia hii mtu yeyote anaweza kuchangia kutengeneza programu hii.
 Walengwa hasa wakiwa wanafunzi wa chuo kikuu cha Dodoma. Wanafunzi watapata fursa ya kujifunza kutengeneza programu tumishi kwa ushirikiano kupitia GitHub.
 Kuona kazi yao. kjfsfjslfjslf
-
+jjjjjjjjjjjjjjjjjjjj
 +iiiiiiiiiikkij
