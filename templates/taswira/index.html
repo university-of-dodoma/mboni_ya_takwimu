@@ -1,0 +1,13 @@
+<html>
+    <iframe width="1000" height="1000" frameborder="0" seamless="seamless" scrolling="no" \
+            src="/taswira/graph"></iframe>
+{% if latest_question_list %}
+    <ul>
+    {% for question in latest_question_list %}
+        <li><a href="/taswira/{{ question.id }}/view">{{ question.question_text }}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No polls are available.</p>
+{% endif %}
+</html>
